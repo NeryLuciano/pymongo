@@ -1,0 +1,7 @@
+//Inserir dados via Playground
+
+use('python')
+
+//Exemplo de insert
+
+db.teste.insertOne({"Country name":"Teste Mackenzie 40"})
